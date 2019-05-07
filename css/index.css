@@ -112,6 +112,8 @@ p {
     justify-content: center;
 }
 
+
+
 .bottom-content {
     display: flex;
     margin: 0 2% 20px;
@@ -166,6 +168,39 @@ header nav a{
     margin: auto;
     padding-bottom: 30px;
 }
+
+#box1 {
+    background: teal;
+}
+#box2 {
+    background: gold;
+}
+#box3 {
+    background: cadetblue;
+}
+#box4 {
+    background: coral;
+}
+#box5 {
+    background: crimson;
+}
+#box6 {
+    background: forestgreen;
+}
+#box7 {
+    background: darkorchid;
+}
+#box8 {
+    background: hotpink;
+}
+#box9 {
+    background: indigo;
+}
+#box10 {
+    background: dodgerblue;
+}
+
+
 /*Jenn's code about page*/
 .about, .strategy, .how-we-work, .places-we-work, .collaboration{
     border-bottom: 1px dashed black;
